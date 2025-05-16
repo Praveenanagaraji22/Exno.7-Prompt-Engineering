@@ -1,5 +1,4 @@
 ## Exno.7-Prompt-Engineering
-## `Date:
 ## Register no: 212222040122
 ## Aim:
 To create a prompt-driven application tailored to individual needs, promoting innovation and real-world problem-solving skills by harnessing the abilities of large language models.
